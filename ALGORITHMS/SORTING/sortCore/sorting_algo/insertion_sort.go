@@ -1,5 +1,5 @@
 // Take element from unsorted array and place it sorted array
-package bubble
+package sorting
 
 import (
 	"fmt"

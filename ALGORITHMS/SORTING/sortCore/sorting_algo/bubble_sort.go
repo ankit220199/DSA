@@ -1,5 +1,5 @@
 // sort adjacent element of the unsorted array
-package bubble
+package sorting
 
 import "fmt"
 

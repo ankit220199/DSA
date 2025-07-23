@@ -1,9 +1,10 @@
 package main
 
 import (
-	bubble "sortLocal/sortCore/sorting_algo"
+	sortingg "sortLocal/sortCore/sorting_algo"
 )
 
 func main() {
-	bubble.Insertition_sort()
+	//for other algorithm access use package name sortingg with function name.
+	sortingg.QuickInput()
 }
